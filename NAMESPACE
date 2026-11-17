@@ -1,0 +1,4 @@
+import(randomForest)
+importFrom(stats,predict)
+export(prediction_multiple)
+export(prediction_single)

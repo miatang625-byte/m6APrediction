@@ -1,0 +1,10 @@
+Package: m6APrediction
+Type: Package
+Version: 1.0.0
+Title: Predict RNA m6A Sites from Input Features
+Authors@R: person('Tang', 'Tang', email = 'Tang.Tang24@student.xjtlu.edu.cn', role = c('aut', 'cre'))
+Description: Predicts RNA N6-methyladenosine status from genomic features using a bundled random forest model.
+Depends: R (>= 3.5.0)
+Imports: randomForest, stats
+License: MIT + file LICENSE
+Encoding: UTF-8
